@@ -1,0 +1,1 @@
+It is not feasible/sensible to implement this operation in this data structure.

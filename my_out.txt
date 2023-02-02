@@ -1,0 +1,8 @@
+antelope
+buffalo
+cat
+donkey
+elephant
+frog
+giraffe
+hippo
